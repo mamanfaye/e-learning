@@ -3,12 +3,12 @@ function LoginPage() {
     <div className="min-h-screen bg-gray-50 flex">
       {/* PARTIE GAUCHE */}
       <div className="hidden md:flex w-1/2 bg-gray-900 flex-col justify-between p-12">
-        <h1 className="text-2xl font-bold text-white">Nova<span className="text-yellow-500">Mind</span></h1>
+        <h1 className="text-2xl font-bold text-white">Tekki<span className="text-yellow-500">Learn</span></h1>
         <div>
           <p className="text-4xl font-bold text-white mb-4">Reprenez là<br/>où vous<br/><span className="italic text-yellow-500">vous étiez.</span></p>
           <p className="text-gray-400">Connectez-vous et continuez votre parcours d'apprentissage.</p>
         </div>
-        <p className="text-gray-600 text-sm">© 2026 NovaMind</p>
+        <p className="text-gray-600 text-sm">© 2026 Tekki Learn</p>
       </div>
 
       {/* PARTIE DROITE */}

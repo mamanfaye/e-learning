@@ -5,7 +5,7 @@ function Dashboard() {
       {/* SIDEBAR */}
       <div className="w-64 bg-gray-900 flex flex-col justify-between p-6">
         <div>
-          <h1 className="text-2xl font-bold text-white mb-10">Nova<span className="text-yellow-500">Mind</span></h1>
+          <h1 className="text-2xl font-bold text-white mb-10">Tekki<span className="text-yellow-500">Learn</span></h1>
           <nav className="flex flex-col gap-2">
             {[
               { icon: "📊", label: "Tableau de bord" },
