@@ -36,7 +36,7 @@ function LandingPage() {
       </section>
 
       {/* FEATURES */}
-      <section id="avantages" className="px-8 py-20 bg-white">
+      <section id="formations" className="px-8 py-20 bg-white">
         <p className="text-yellow-500 font-mono text-xs uppercase tracking-widest mb-2">Pourquoi Tekki Learn</p>
         <h3 className="text-3xl font-bold text-gray-900 mb-12">Une plateforme pensée pour votre réussite</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
